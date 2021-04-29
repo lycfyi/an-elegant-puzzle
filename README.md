@@ -13,3 +13,17 @@
 
 有句话说的是：人们不会离开公司，只会离开他们的主管。管理是任何组织的核心，然而管理的原则往往是自学得来，而且没有章法。
 
+
+
+## Donation
+
+如果你觉得我的工作对你有所帮助，欢迎捐赠crypto到如下地址
+
+![BTC: 33itepSrkC1sV4GHfEUEifruE82CAzxJ69](.gitbook/assets/image%20%283%29.png)
+
+![ETH: 0x03490a0191f428145988E726e9BCdA7cD8Df86ae](.gitbook/assets/image%20%282%29.png)
+
+![BCH: qpssxzmh5c3vs2pvsmwauam4lzw92qfe5qqk4dz86z](.gitbook/assets/image%20%281%29.png)
+
+## 
+
