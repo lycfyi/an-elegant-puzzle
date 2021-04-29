@@ -1,6 +1,4 @@
 ---
-description: 如何做好工程管理
----
 
 # An Elegant Puzzle - 中文翻译
 
