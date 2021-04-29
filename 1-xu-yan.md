@@ -1,14 +1,16 @@
 # 1 - 序言
 
-有些人进入管理层是出于服务他人的愿望。另一些人并不对管理抱有热情，只为获得继续加薪和晋升的前景，甚至还会变得愤世嫉俗。甚至有些人一开始进入管理层，是因为他们完全厌倦了自己的经理，相信自己可以做得更好。 
+有些人进入管理层是出于服务他人的愿望。另一些人并不对管理抱有热情，只为获得继续加薪和晋升的前景，甚至还会变得愤世嫉俗。有些人一开始进入管理层，完全是因为他们实在受不了自己的主管，相信自己可以做得更好。 
 
 我不想说哪一个是我的情况。 
 
 不管最初是什么动机让你进入管理层，你可能会觉得自己进入了一个麻烦重重的职业。熟练的从业人员是稀缺的，而且只有杰出的公司愿意投资培养其经理。
 
-如果说培训项目特别罕见，那么对当今管理者准备不足的担忧则并不罕见。我很幸运，在我管理生涯的早期，有一位同事说我是他们共事过的最好的领导。若干年后，我遇到的另一位同事则称我为他们见过最糟糕的领导。
+如果说培训项目特别罕见，那么对当今管理者准备不足的担忧则并不罕见。我很幸运，在我管理生涯的早期，有一位同事说我是他们共事过的最好的领导。但是若干年后，我遇到的另一位同事则称我为他们见过最糟糕的领导。
 
 While David’s cloak is increasingly suspicious draped from the shoulders of Silicon Valley’s Goliaths, the vast majority of technology companies are well-meaning chrysalises that hope to one day birth a successful business, and they are guided by managers who are learning to lead, one unexpected lesson at a time. For many such people, the entry into engineering management begins with a crisis, and their training is a series of hard knocks.
+
+尽管大卫的斗篷越来越多地披在硅谷巨人们的肩上，但绝大多数科技公司都是希望有一天能破茧成蝶，诞生为成功的企业；这些公司的管理者都是通过一次又一次意想不到的教训来学习如何去领导团队。对于许多这样的管理者来说，刚刚进入工程管理行业的时候危机四伏，后续的成长过程也是一系列的沉重经验。
 
 “This was certainly my experience: my path into management began at Digg, paved by a pair of layoffs in 2010. The three one-on-ones I’d had at my previous job had not, surprisingly, culminated in a rigorous framework for management, and I had absolutely no idea what I was doing.
 
