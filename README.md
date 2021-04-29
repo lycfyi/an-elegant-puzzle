@@ -1,7 +1,3 @@
----
-description: 如何做好工程管理
----
-
 # An Elegant Puzzle - 中文翻译
 
 * 作者： [Will Larson](https://www.linkedin.com/in/will-larson-a44b543/)
