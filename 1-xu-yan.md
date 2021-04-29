@@ -1,18 +1,12 @@
 # 1 - 序言
 
-Some people go into management out of a desire to be of service. Others become managers in a cynical pact, exchanging excitement in their current role for the prospect of continued salary bumps and promotions. There are even folks who initially go into management because they’re entirely fed up with their own manager and are convinced that they could do better.
-
 有些人进入管理层是出于服务他人的愿望。另一些人并不对管理抱有热情，只为获得继续加薪和晋升的前景，甚至还会变得愤世嫉俗。甚至有些人一开始进入管理层，是因为他们完全厌倦了自己的经理，相信自己可以做得更好。 
-
-I won’t say which of those, if any, describes me.
 
 我不想说哪一个是我的情况。 
 
-Regardless of what motivation first brings you into management, it can feel as if you’ve entered a troubled profession. Skilled practitioners are scarce, and only the exceptional company is willing to invest in growing its managers.
-
 不管最初是什么动机让你进入管理层，你可能会觉得自己进入了一个麻烦重重的职业。熟练的从业人员是稀缺的，而且只有杰出的公司愿意投资培养其经理。
 
-If training programs are peculiarly uncommon, concerns that today’s managers are ill-prepared are not. I was lucky early in my management career to have a coworker describe me as the best leader they had worked with. It took several additional years of practice for another to declare me their worst.
+如果说培训项目特别罕见，那么对当今管理者准备不足的担忧则并不罕见。我很幸运，在我管理生涯的早期，有一位同事说我是他们共事过的最好的领导。若干年后，我遇到的另一位同事则称我为他们见过最糟糕的领导。
 
 While David’s cloak is increasingly suspicious draped from the shoulders of Silicon Valley’s Goliaths, the vast majority of technology companies are well-meaning chrysalises that hope to one day birth a successful business, and they are guided by managers who are learning to lead, one unexpected lesson at a time. For many such people, the entry into engineering management begins with a crisis, and their training is a series of hard knocks.
 
