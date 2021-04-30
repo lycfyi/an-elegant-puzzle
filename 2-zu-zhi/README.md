@@ -1,10 +1,10 @@
 # 2 - 组织
 
-An organization is a collection of people working toward a shared goal. Each organization is an exploration of the possible, undertaken together by the ten, the hundred, or the thousand. Initially, I was tempted to glibly write that sometimes organizations work, but the truly extraordinary thing is that all organizations work.
+一个组织是一群朝着共同目标努力的人的集合。每个组织都是一种可能性的探索，由十个人、一百个人或一千个人共同承担。一开始写这段的时候，我有点想圆滑一些写成"有时候, 组织是有用的"，但神奇的是事实上，"所有的组织都是有用的"。
 
-Some do indeed work better than others, and organizational design is the attempt to understand why some create such energy and others create mostly heat: friction, frustration, and politics. I believe that excellent organizations grow from consistently applying a straightforward process.
+有些人确实比其他人做得更好，而组织设计就是试图理解为什么有些人创造了这样的能量，而另一些人则创造了更多的废热：摩擦、挫折和办公室政治。我相信，只有持续不断的应用直接明了的工作流程，才能培养出杰出的团队。
 
-When I have a problem that I want to solve quickly and cheaply, I start thinking about process design. A problem I want to solve permanently and we have time to go slow? That’s a good time to evolve your culture. However, if process is too weak a force, and culture too slow, then organizational design lives between those two.
+当我想快速和廉价地解决一个问题时，我会开始思考工作流程的设计。想永久解决的问题还有时间慢慢琢磨? 你可能得思考一下你的团队文化的是不是需要改变。然而，如果流程本身太无力，而团队文化有太慢，那么组织设计也逃脱不了要么无力，要么太慢的命运。
 
-This chapter covers the approaches to organizational design and evolution that I’ve found effective. If you’re reading through and find yourself thinking that this sounds easy, I agree! The hard bit is keeping your courage up when circumstances get challenging.
+这一章涵盖了我认为有效的组织设计和发展方法。如果你读了之后觉得这听起来很简单，我同意!困难的部分是当环境变得具有挑战性时保持你的勇气。
 

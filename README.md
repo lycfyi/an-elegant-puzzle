@@ -13,7 +13,7 @@
 
 分享时请注明[出处](https://yucliu.gitbook.io/an-elegant-puzzle/)，有反馈的话也欢迎大家给github repo: [https://github.com/cloudlite/an-elegant-puzzle](https://github.com/cloudlite/an-elegant-puzzle) 发PR或者直接联系[译者LinkedIn](https://www.linkedin.com/in/liuyucheng/)！
 
-### 本书概要
+### 概要
 
 有一种说法是人们离开的不是公司，而是经理。管理是任何组织的核心，然而管理的原则往往是自学得来，而且没有章法。为复杂的管理挑战找到好的解决方案可以决定团队的成就，最终决定公司的成功或失败。
 
