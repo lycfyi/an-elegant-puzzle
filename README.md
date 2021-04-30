@@ -2,7 +2,7 @@
 
 ## An Elegant Puzzle - Systems of Engineering Management
 
-### 《优雅的谜题 - 工程管理的系统》
+### 《优雅的谜题 - 技术团队管理工具箱》
 
 * 作者： [Will Larson](https://www.linkedin.com/in/will-larson-a44b543/)
 * 原书名称：[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186/ref=sr_1_1?dchild=1&keywords=an+elegant+puzzle&qid=1619663562&sr=8-1)
@@ -17,7 +17,7 @@
 
 ### Donation
 
-如果您觉得我的工作对您有所帮助，欢迎捐赠crypto到如下地址：
+如果您觉得我的工作对您有所帮助，欢迎捐赠crypto到如下地址，您的支持是我最大的动力！
 
 ![BTC: 33itepSrkC1sV4GHfEUEifruE82CAzxJ69](.gitbook/assets/image%20%283%29.png)
 
